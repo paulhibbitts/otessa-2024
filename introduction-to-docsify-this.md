@@ -35,14 +35,6 @@ Docsify-This is a dynamic Markdown renderer that allows quick conversion of onli
 - GitHub/Codeberg Integration: Use Markdown files hosted on GitHub or Codeberg as content
 - Custom Styling: Style pages using URL parameters or the provided Web Page Builder
 
-## Docsify-This Page Markdown Templates
-The following are example Markdown templates which can be cloned/forked on GitHub or imported into Codeberg.
-
-- Docsify-This One Page Article Template
-  - https://github.com/hibbitts-design/docsify-this-one-page-article
-- Docsify-This Multiple Page Course Site Template
-  - https://github.com/hibbitts-design/docsify-this-multiple-page-course-site
-
 ## Web Page Builder
 Enter the URL of a Markdown file into the Docsify-This Web Page Builder (shown below) and tap the ‘Publish as Standalone Web Page’  button to create a web page with its own URL for sharing or embedding. 
 
@@ -65,6 +57,14 @@ To host Markdown files for Docsify-This, you can use platforms like GitHub, Code
 ## Leveraging Git and GitHub/Codeberg
 Using Git and platforms like GitHub or Codeberg enhances collaboration and version control
 capabilities, making managing changes to your Markdown files more efficient and error-resilient.
+
+## Docsify-This Page Markdown Templates
+The following are example Markdown templates which can be cloned/forked on GitHub or imported into Codeberg.
+
+- Docsify-This One Page Article Template
+  - https://github.com/hibbitts-design/docsify-this-one-page-article
+- Docsify-This Multiple Page Course Site Template
+  - https://github.com/hibbitts-design/docsify-this-multiple-page-course-site
 
 ## Additional Resources
 - Basic Syntax | Markdown Guide
