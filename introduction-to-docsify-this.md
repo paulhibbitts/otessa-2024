@@ -58,13 +58,15 @@ To host Markdown files for Docsify-This, you can use platforms like GitHub, Code
 Using Git and platforms like GitHub or Codeberg enhances collaboration and version control
 capabilities, making managing changes to your Markdown files more efficient and error-resilient.
 
-## Docsify-This Page Markdown Templates
+## Docsify-This Markdown Page Templates
 The following are example Markdown templates which can be cloned/forked on GitHub or imported into Codeberg.
 
 - Docsify-This One Page Article Template
   - https://github.com/hibbitts-design/docsify-this-one-page-article
 - Docsify-This Multiple Page Course Site Template
   - https://github.com/hibbitts-design/docsify-this-multiple-page-course-site
+- Docsify-This LMS Content Pages Template
+  - https://github.com/hibbitts-design/docsify-this-lms-content-pages
 
 ## Additional Resources
 - Basic Syntax | Markdown Guide
