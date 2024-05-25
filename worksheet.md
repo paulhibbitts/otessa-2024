@@ -3,11 +3,11 @@
 The open-source web app [Docsify-This.net](https://Docsify-This.net), built with the unique no-build site generator [Docsify.js.org](https://docsify.js.org), provides a quick way to publish one or more online Markdown files as standalone web pages without needing to set up your own website.
 
 1. Display the following Markdown file URL as a standalone Web page  
-`https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`<br><span style="display:inline-block;height: 16px;"></span>
+`https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`<br><span style="display:inline-block;height: 24px;"></span>
 [:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md')
 
 2. Display a Markdown file URL of your choice as a standalone Web page. If you do not have a Markdown file URL handy you can use the following URL  
-`https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown`  
+`https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown`<br><span style="display:inline-block;height: 24px;"></span>
 [:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown')
 
 3. Visually style a displayed Markdown file using the Web Page Builder, for example change the page font family or link color  
@@ -24,7 +24,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 [:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?advanced=true#/ ':target=_blank :class=navpill Load Docsify-This Advanced Web Page Builder')
 
 8. Using the Advanced Web Page Builder, display a collection of Markdown files as a standalone Website with a custom Docsify Sidebar using the following Markdown file  
-`https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md`  
+`https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md`<br><span style="display:inline-block;height: 24px;"></span>
 [:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md&sidebar=true&loadSidebar=_sidebar.md ':target=_blank :class=navpill Load Docsify-This Advanced Web Page Builder with the Markdown file URL ithub.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md and display a Sidebar that uses a custom Sidebar file')
 
 STRETCH GOAL
