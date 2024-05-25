@@ -65,6 +65,8 @@ The following are example Markdown templates which can be cloned/forked on GitHu
   - https://github.com/hibbitts-design/docsify-this-one-page-article
 - Docsify-This Multiple Page Course Site Template
   - https://github.com/hibbitts-design/docsify-this-multiple-page-course-site
+- Docsify-This LMS Content Pages Template
+  - https://github.com/hibbitts-design/docsify-this-lms-content-pages
 
 ## Additional Resources
 - Basic Syntax | Markdown Guide
