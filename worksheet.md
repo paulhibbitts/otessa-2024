@@ -3,12 +3,12 @@
 The open-source web app [Docsify-This.net](https://Docsify-This.net), built with the unique no-build site generator [Docsify.js.org](https://docsify.js.org), provides a quick way to publish one or more online Markdown files as standalone web pages without needing to set up your own website.
 
 1. Display the following Markdown file URL as a standalone Web page  
-`https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`
-<br><span style="display:inline-block;height: 24px;"></span>[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md')
+`https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`  
+[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md')
 
 2. Display a Markdown file URL of your choice as a standalone Web page. If you do not have a Markdown file URL handy you can use the following URL  
-`https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown`
-<br><span style="display:inline-block;height: 24px;"></span>[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown')
+`https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown`<br>
+[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown')
 
 3. Visually style a displayed Markdown file using the Web Page Builder, for example change the page font family or link color
 <br><span style="display:inline-block;height: 16px;"></span>[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000 ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000')
