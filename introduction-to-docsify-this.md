@@ -3,7 +3,7 @@
 This overview introduces Markdown publishing using Docsify-This, an open-source project available at https://Docsify-This.net  that turns Markdown files into web pages. It covers the basics of Markdown, its advantages, and various tools and scenarios for publishing Markdown files as standalone web pages or embedded content.
 
 ## What is Markdown?
-Markdown is a markup language for formatting plain text. It’s simpler than HTML but capable of achieving similar formatting effects. Markdown is especially beneficial because it is system-independent and human-readable, making it ideal for version control and maintaining separation between content and presentation. It can also include HTML snippets, adding to its versatility.
+Markdown is a markup language for formatting plain text. It’s simpler than HTML but capable of achieving similar formatting effects. Markdown is especially beneficial because it is system-independent and human-readable, making it ideal for version control and maintaining separation between content and presentation.
 
 ## Why Use Markdown?
 - System-independent: Works across different publishing platforms
@@ -34,6 +34,14 @@ Docsify-This is a dynamic Markdown renderer that allows quick conversion of onli
 - Standalone Web Pages: Instantly publish Markdown files as web pages
 - GitHub/Codeberg Integration: Use Markdown files hosted on GitHub or Codeberg as content
 - Custom Styling: Style pages using URL parameters or the provided Web Page Builder
+
+## Docsify-This Page Markdown Templates
+The following are example Markdown templates which can be cloned/forked on GitHub or imported into Codeberg.
+
+- Docsify-This One Page Article Template
+  - https://github.com/hibbitts-design/docsify-this-one-page-article
+- Docsify-This Multiple Page Course Site Template
+  - https://github.com/hibbitts-design/docsify-this-multiple-page-course-site
 
 ## Web Page Builder
 Enter the URL of a Markdown file into the Docsify-This Web Page Builder (shown below) and tap the ‘Publish as Standalone Web Page’  button to create a web page with its own URL for sharing or embedding. 
