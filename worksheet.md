@@ -4,14 +4,14 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
 1. Display the following Markdown file URL as a standalone Web page  
 `https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`  
-[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md')
+<span style="display:inline-block;height: 16px;"></span>[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md')
 
 2. Display a Markdown file URL of your choice as a standalone Web page. If you do not have a Markdown file URL handy you can use the following URL  
 `https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown`  
 [:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown')
 
 3. Visually style a displayed Markdown file using the Web Page Builder, for example change the page font family or link color  
-<span style="display:inline-block;margin-top: -.30rem;"></span>[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000 ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000')
+[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000 ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000')
 
 4. Share the URL of a Web page created by Docsify-This Web Page Builder  
 
