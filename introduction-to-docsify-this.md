@@ -58,4 +58,18 @@ To host Markdown files for Docsify-This, you can use platforms like GitHub, Code
 Using Git and platforms like GitHub or Codeberg enhances collaboration and version control
 capabilities, making managing changes to your Markdown files more efficient and error-resilient.
 
+## Additional Resources
+- Basic Syntax | Markdown Guide
+  - https://www.markdownguide.org/basic-syntax
+- Improving The Accessibility Of Your Markdown
+  - https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown
+- OER on GitHub What, Why, & How
+  - https://evanwill.github.io/make-oer
+- VSCode Desktop Editor
+  - https://code.visualstudio.com/
+- Typora Desktop Editor
+  - https://typora.io
+
+
+
 <br><p xmlns:cc="http://creativecommons.org/ns#" >This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hibbittsdesign.org">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
