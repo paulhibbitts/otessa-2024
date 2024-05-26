@@ -76,7 +76,7 @@ The following are example Markdown templates which can be cloned/forked on GitHu
 - OER on GitHub What, Why, & How
   - https://evanwill.github.io/make-oer
 - VSCode Desktop Editor
-  - https://code.visualstudio.com/
+  - https://code.visualstudio.com
 - Typora Desktop Editor
   - https://typora.io
 
