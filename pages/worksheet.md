@@ -4,7 +4,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
 1. Display the following Markdown file URL as a standalone Web page  
 `https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`<br><span style="display:inline-block;height: 24px;"></span>
-[:fas fa-check-square fa-fw:Load Docsify-This Solution Example](https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md ':target=_blank :class=navpill Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md')
+<a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Load Docsify-This Solution Example</a>
 
 2. Display a Markdown file URL of your choice as a standalone Web page. If you do not have a Markdown file URL handy you can use the following URL  
 `https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown`<br><span style="display:inline-block;height: 24px;"></span>
