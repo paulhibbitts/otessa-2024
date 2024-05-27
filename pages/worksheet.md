@@ -7,8 +7,8 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Load Docsify-This Solution Example</a>
 
 2. Display a Markdown file URL of your choice as a standalone Web page. If you do not have a Markdown file URL handy you can use the following URL  
-`https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown`<br><span style="display:inline-block;height: 24px;"></span>
-<a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown" title="Load Docsify-This with the Markdown file URL github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by.markdown" target="_blank"><i class="fas fa-check-square fa-fw"></i>Load Docsify-This Solution Example</a>
+`https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md`<br><span style="display:inline-block;height: 24px;"></span>
+<a class="navpill" href="https://docsify-this.net/?url-field=https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md" title="Load Docsify-This with the Markdown file URL codeberg.org/Codeberg/Documentation/src/branch/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Load Docsify-This Solution Example</a>
 
 3. Visually style a displayed Markdown file using the Web Page Builder, for example change the page font family or link color  
 <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000" target="_blank"><i class="fas fa-check-square fa-fw"></i>Load Docsify-This Solution Example</a>
