@@ -49,7 +49,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 ```
 
 ## Custom Styling
-You can further modify the appearance of web pages by using the provided CSS classes or even your own custom CSS classes directly in a Markdown file, increasing flexibility and control over page presentation.
+You can further modify the appearance of web pages by using the provided CSS classes or even your own custom CSS classes directly in a Markdown file, increasing flexibility and control of pages.
 
 ## Hosting Markdown Files
 To host Markdown files for Docsify-This, you can use platforms like GitHub, Codeberg or your own Webserver. You only need the URL of a Markdown file to start publishing with Docsify-This.
