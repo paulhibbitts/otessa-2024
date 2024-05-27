@@ -1,4 +1,4 @@
-<h1>Breaking Down Barriers:</h1><br><h1>Using Docsify-This As an Entry Point to Markdown Open Publishing</h1> 
+<h1>Breaking Down Barriers:<br>Using Docsify-This As an Entry Point to Markdown Open Publishing</h1> 
 
 Materials for my [OTESSA Conference 2024](https://otessa.org/2024/) online workshop.
 
