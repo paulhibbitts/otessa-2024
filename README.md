@@ -8,4 +8,6 @@ Materials for Paul Hibbitts’ [OTESSA 2024 Conference](https://otessa.org/2024/
 
 ![Open laptop with coffee mug and notebook close by](https://otessa.org/2024/files/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-scaled.jpg ':class=banner-tall-image')
 
+<figure><img src="https://otessa.org/2024/files/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-scaled.jpg" class = "banner-tall-image" alt="Open laptop with coffee mug and notebook close by"><figcaption>Photo by Nick Morrison on Unsplash</figcaption></figure>
+
 _Markdown export from Google Docs courtesy of the *[Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607)* Google Drive extension. These materials are also available on [Codeberg.org](https://codeberg.org/paulhibbitts/otessa-2024)._
