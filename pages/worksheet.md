@@ -1,4 +1,4 @@
-<h1> Breaking Down Barriers: Using Docsify-This As an Entry Point to Markdown Open Publishing </h1>
+<h1><b>Breaking Down Barriers:</b><br>Using Docsify-This As an Entry Point to Markdown Open Publishing</h1>
 
 The open-source web app [Docsify-This.net](https://Docsify-This.net), built with the unique no-build site generator [Docsify.js.org](https://docsify.js.org), provides a quick way to publish one or more online Markdown files as standalone web pages without needing to set up your own website.
 
