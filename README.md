@@ -9,6 +9,6 @@ Materials for Paul Hibbitts’ [OTESSA 2024 Conference](https://otessa.org/2024/
 ![Open laptop with coffee mug and notebook close by](pages/images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg ':class=banner-tall-image')  
 Photo by Nick Morrison on Unsplash  
 
-_Markdown export from Google Docs courtesy of the *[Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607)* Google Drive extension. These materials are also available on [Codeberg.org](https://codeberg.org/paulhibbitts/otessa-2024)._
+_Markdown export from Google Docs courtesy of the [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) Google Drive extension. These materials are also available on [Codeberg.org](https://codeberg.org/paulhibbitts/otessa-2024)._
 
 <br><p xmlns:cc="http://creativecommons.org/ns#" >This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hibbittsdesign.org">Paul Hibbitts</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
