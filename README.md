@@ -6,7 +6,7 @@ Materials for Paul Hibbitts’ [OTESSA 2024 Conference](https://otessa.org/2024/
 - [Worksheet](pages/worksheet.md) ([PDF](https://paulhibbitts.github.io/otessa-2024/worksheet.pdf))
 - [Google Slides](https://docs.google.com/presentation/d/1emFKCI_DRlCqCVbaaawPZoa5AdVY2UC-I6_s0WK7a64/edit?usp=sharing) ([PDF](https://paulhibbitts.github.io/otessa-2024/slides.pdf))
 
-<figure><img src="https://otessa.org/2024/files/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-scaled.jpg" class = "banner-tall-image" alt="Open laptop with coffee mug and notebook close by"><figcaption>Photo by Nick Morrison on Unsplash</figcaption></figure><br>
+<figure><img src="https://otessa.org/2024/files/2023/10/nick-morrison-FHnnjk1Yj7Y-unsplash-scaled.jpg" class = "banner-tall-image" alt="Open laptop with coffee mug and notebook close by"><figcaption>Photo by Nick Morrison on Unsplash</figcaption></figure><br><br>
 
 _Markdown export from Google Docs courtesy of the *[Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607)* Google Drive extension. These materials are also available on [Codeberg.org](https://codeberg.org/paulhibbitts/otessa-2024)._
 
