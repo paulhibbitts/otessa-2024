@@ -1,6 +1,6 @@
 <h1><b>Breaking Down Barriers:</b><br>Using Docsify-This As an Entry Point to Markdown Open Publishing</h1> 
 
-Materials for Paul Hibbitts’ [OTESSA 2024 Conference](https://otessa.org/2024/) online workshop.
+Materials for Paul Hibbitts’ [OTESSA 2024 Conference](https://otessa.org/2024/) online workshop about [Docsify-This.net](https://Docsify-This.net).
 
 - [Worksheet](pages/worksheet.md) ([PDF](https://paulhibbitts.github.io/otessa-2024/worksheet.pdf))
 - [Docsify-This Overview](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/otessa-2024/main/pages&homepage=introduction-to-docsify-this.md&edit-link=https://github.com/paulhibbitts/otessa-2024/blob/main/pages/introduction-to-docsify-this.md&sidebar=true&edit-link-text=View%20on%20GitHub&edit-link-emoji=:file_folder:&browser-tab-title=Introduction%20to%20Publishing%20with%20Docsify-This&header-weight=600&dark-mode=true&coverpage=_coverpage.md) ([PDF](https://paulhibbitts.github.io/otessa-2024/introduction-to-docsify-this.pdf))
