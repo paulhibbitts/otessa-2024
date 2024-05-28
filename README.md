@@ -3,7 +3,7 @@
 Materials for Paul Hibbitts’ [OTESSA 2024 Conference](https://otessa.org/2024/) online workshop about [Docsify-This.net](https://Docsify-This.net).
 
 - [Worksheet](pages/worksheet.md) ([PDF](https://paulhibbitts.github.io/otessa-2024/worksheet.pdf))
-- [Introduction to Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/otessa-2024/main/pages&homepage=introduction-to-docsify-this.md&edit-link=https://github.com/paulhibbitts/otessa-2024/blob/main/pages/introduction-to-docsify-this.md&sidebar=true&edit-link-text=View%20on%20GitHub&edit-link-emoji=:file_folder:&browser-tab-title=Introduction%20to%20Publishing%20with%20Docsify-This&header-weight=600&dark-mode=true&coverpage=_coverpage.md) ([PDF](https://paulhibbitts.github.io/otessa-2024/introduction-to-docsify-this.pdf))
+- [Introduction to Publishing with Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/otessa-2024/main/pages&homepage=introduction-to-docsify-this.md&edit-link=https://github.com/paulhibbitts/otessa-2024/blob/main/pages/introduction-to-docsify-this.md&sidebar=true&edit-link-text=View%20on%20GitHub&edit-link-emoji=:file_folder:&browser-tab-title=Introduction%20to%20Publishing%20with%20Docsify-This&header-weight=600&dark-mode=true&coverpage=_coverpage.md) ([PDF](https://paulhibbitts.github.io/otessa-2024/introduction-to-docsify-this.pdf))
 - [Google Slides](https://docs.google.com/presentation/d/1emFKCI_DRlCqCVbaaawPZoa5AdVY2UC-I6_s0WK7a64/edit?usp=sharing) ([PDF](https://paulhibbitts.github.io/otessa-2024/slides.pdf))
 
 ![Open laptop with coffee mug and notebook close by](pages/images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg ':class=banner-tall-image')  
