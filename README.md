@@ -7,7 +7,7 @@ Materials for Paul Hibbitts’ [OTESSA 2024 Conference](https://otessa.org/2024/
 - [Google Slides](https://docs.google.com/presentation/d/1emFKCI_DRlCqCVbaaawPZoa5AdVY2UC-I6_s0WK7a64/edit?usp=sharing) ([PDF](https://paulhibbitts.github.io/otessa-2024/slides.pdf))
 
 ![Laptop and a cup of coffee,mobile phone on office desk](https://filedn.com/l78zlRyJQn1RTxFigiQaSxu/otessa-2024/images/iStock-510636274.jpg ':class=banner-tall-image')  
-Photo licensed from iStock
+©iStockphoto.com/xijian
 
 _Markdown export from Google Docs courtesy of the [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) Google Drive extension. These materials are also available on [Codeberg.org](https://codeberg.org/paulhibbitts/otessa-2024)._
 
