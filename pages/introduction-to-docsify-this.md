@@ -48,6 +48,8 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 ```
 
+Docsify-This uses URL parameters to specify what and how content is displayed. For example, the URL parameter **basePath** sets the path containing the Markdown file to display and **homepage** sets the name of the Markdown file to display.
+
 ## Custom Styling
 You can further modify the appearance of web pages by using the provided CSS classes or even your own custom CSS classes directly in a Markdown file, increasing flexibility and control of pages.
 
