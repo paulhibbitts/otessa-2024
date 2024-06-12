@@ -78,14 +78,23 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
     </details>
     </div>
 
-8. Using the Advanced Web Page Builder, display a collection of Markdown files as a standalone Website with a custom Docsify Sidebar using the following Markdown file  
+8. Using Web Page Builder, display a collection of Markdown files as a standalone Website using the following Markdown file  
+   `https://github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md`
 
     <details>
       <summary>Show solution</summary>
 
-      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md&sidebar=true&loadSidebar=_sidebar.md" title="Load Docsify-This Advanced Web Page Builder with the Markdown file URL ithub.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md and display a Sidebar that uses a custom Sidebar file" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md" title="Load Docsify-This with the Markdown file github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
       
     </details>
+
+9. Using the Advanced Web Page Builder, display a collection of Markdown files as a standalone Website with a custom Docsify Sidebar using the following Markdown file  
+   `https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md`
+
+    <details>
+      <summary>Show solution</summary>
+
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md&sidebar=true&loadSidebar=_sidebar.md" title="Load Docsify-This Advanced Web Page Builder with the Markdown file URL github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md and display a Sidebar that uses a custom Sidebar file" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
 
 STRETCH GOAL
 
