@@ -84,7 +84,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
     <details>
       <summary>Show solution</summary>
 
-      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md" title="Load Docsify-This with the Markdown file github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" title="Load Docsify-This with the Markdown file github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
       
     </details>
 
