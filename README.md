@@ -2,8 +2,8 @@
 
 Materials for Paul Hibbitts’ [OTESSA 2024 Conference](https://otessa.org/2024/) online workshop about the open source project [Docsify&#8288;&#8211;&#8288;This](https://Docsify-This.net).
 
-- [Worksheet](pages/worksheet.md) ([PDF](https://paulhibbitts.github.io/otessa-2024/worksheet.pdf))
 - [Introduction to Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/otessa-2024/main/pages&homepage=introduction-to-docsify-this.md&edit-link=https://github.com/paulhibbitts/otessa-2024&sidebar=true&edit-link-text=View%20on%20GitHub&edit-link-emoji=:file_folder:&browser-tab-title=Introduction%20to%20Docsify-This&header-weight=600&dark-mode=true&coverpage=_coverpage.md) ([PDF](https://paulhibbitts.github.io/otessa-2024/introduction-to-docsify-this.pdf))
+- [Worksheet](pages/worksheet.md) ([PDF](https://paulhibbitts.github.io/otessa-2024/worksheet.pdf))
 - [Google Slides](https://docs.google.com/presentation/d/1emFKCI_DRlCqCVbaaawPZoa5AdVY2UC-I6_s0WK7a64/edit?usp=sharing) ([PDF](https://paulhibbitts.github.io/otessa-2024/slides.pdf))
 
 ![Laptop and a cup of coffee,mobile phone on office desk](https://filedn.com/l78zlRyJQn1RTxFigiQaSxu/images/istock-licensed-images/iStock-510636274.jpg ':class=banner-tall-image')  
