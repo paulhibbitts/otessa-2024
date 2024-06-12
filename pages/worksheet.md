@@ -58,9 +58,9 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
   <summary>Show solution</summary>
   
   URL Parameters:  
-  **homepage** = README.md  
-  **sidebar** = true  
-  **link-color** = cc0000  
+  **homepage** = README.md (set the name of the Markdown file to display)  
+  **sidebar** = true (show the Sidebar)  
+  **link-color** = cc0000 (set the link color to blue)  
   
 </details>
 </div>
