@@ -1,6 +1,6 @@
 # An Introduction to Docsify-This
 
-This overview introduces Markdown publishing using **Docsify-This**, an open-source project available at https://Docsify-This.net (built with the magical documentation site generator [Docsify](https://docsify.js.org)) that turns Markdown files into web pages. It covers the basics of Markdown, its advantages, and various tools and scenarios for publishing Markdown files as standalone web pages or embedded content.
+This overview introduces Markdown publishing using **Docsify-This**, an open-source project available at https://Docsify-This.net (built with the magical documentation site generator https://docsify.js.org) that turns Markdown files into web pages. It covers the basics of Markdown, its advantages, and various tools and scenarios for publishing Markdown files as standalone web pages or embedded content.
 
 ## What is Markdown?
 Markdown is a markup language for formatting plain text. It’s simpler than HTML but capable of achieving similar formatting effects. Markdown is especially beneficial because it is system-independent and human-readable, making it ideal for version control and maintaining separation between content and presentation.
