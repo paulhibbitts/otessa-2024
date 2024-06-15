@@ -29,10 +29,10 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
     <details>
       <summary>Show solution</summary>
 
-      1. Tap on **Show More Page Appearance Options** link  
+    1. Tap on **Show More Page Appearance Options** link  
       ![Docsify-This Web Page Builder](images/show-more-page-appearance-options.png ':class=image-25-border')
 
-      2. Change font family or link color options  
+    2. Change font family or link color options  
       ![Font family and link color options](images/font-family-link-color.png ':class=image-25-border')
 
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a> 
@@ -77,6 +77,13 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
     <div>
     <details>
+
+    1. Tap on **Show More Page Appearance Options** link  
+      ![Docsify-This Web Page Builder](images/show-more-page-appearance-options.png ':class=image-25-border')
+
+    2. Tap on **Advanced Web Page Builder Options** checkbox  
+      ![Docsify-This Web Page Builder](images/advanced-web-page-builder-options.png ':class=image-25-border')
+
       <summary>Show solution</summary>
 
       <a class="navpill" href="https://docsify-this.net/?advanced=true" title="Load Docsify-This Advanced Web Page Builder" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
