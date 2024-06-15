@@ -56,12 +56,10 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       https://docsify-this.net/?basePath=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000
       
     </details>
-    </div>
 
 5. Decode the URL parameters of the following raw Docsify-This Web Page URL  
    `https://docsify-this.net/?basePath=https://raw.codeberg.page/paulhibbitts/codeberg-demo-markdown-file&homepage=README.md&sidebar=true&link-color=cc0000`
 
-    <div>
     <details>
       <summary>Show solution</summary>
 
