@@ -22,7 +22,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
    `https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md`
 
     <details>
-      <summary>Show solution</summary><br>
+      <summary>Show solution</summary><br><br>
 
       1. Copy and then paste the above URL into the **Markdown File URL** field  
       2. Tap the **Publish as a Standalone Web Page** button  
