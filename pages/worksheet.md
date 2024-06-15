@@ -7,16 +7,16 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 1. Display the following Markdown file URL as a standalone Web page  
    `https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`
       
-    <details>
-      <summary>Show solution</summary>
+  <details>
+    <summary>Show solution</summary>
 
-      1. Copy and then paste the above URL into the **Markdown File URL** field  
-      2. Tap the **Publish as a Standalone Web Page** button  
-      ![Screenshot of solution](images/solution-1.png ':class=image-25-border')
+    1. Copy and then paste the above URL into the **Markdown File URL** field  
+    2. Tap the **Publish as a Standalone Web Page** button  
+    ![Screenshot of solution](images/solution-1.png ':class=image-25-border')
 
-        <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
+    <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
 
-   </details>
+  </details>
 
 2. Display a Markdown file URL of your choice as a standalone Web page. If you do not have a Markdown file URL handy you can use the following URL  
    `https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md`
@@ -28,7 +28,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       2. Tap the **Publish as a Standalone Web Page** button  
       ![Screenshot of solution](images/solution-2.png ':class=image-25-border')
 
-        <a class="navpill" href="https://docsify-this.net/?url-field=https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md" title="Load Docsify-This with the Markdown file URL codeberg.org/Codeberg/Documentation/src/branch/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>  
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md" title="Load Docsify-This with the Markdown file URL codeberg.org/Codeberg/Documentation/src/branch/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>  
 
     </details>
 
@@ -44,7 +44,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       3. Tap the **Publish as a Standalone Web Page** button  
       ![Screenshot of solution](images/solution-3b.png ':class=image-25-border')
 
-        <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a> 
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a> 
 
     </details>
 
@@ -90,7 +90,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       2. Tap the **Publish as a Standalone Web Page** button  
       ![Screenshot of solution](images/solution-7.png ':class=image-25-border')
 
-        <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" title="Load Docsify-This with the Markdown file github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" title="Load Docsify-This with the Markdown file github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
       
     </details>
 
@@ -105,7 +105,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       2. Tap on **Advanced Web Page Builder Options** checkbox  
       ![Screenshot of solution](images/solution-8b.png ':class=image-25-border')
 
-        <a class="navpill" href="https://docsify-this.net/?advanced=true" title="Load Docsify-This Advanced Web Page Builder" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
+      <a class="navpill" href="https://docsify-this.net/?advanced=true" title="Load Docsify-This Advanced Web Page Builder" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
 
     </details>
 
@@ -124,7 +124,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       5. Tap the **Publish as a Standalone Web Page** button
       ![Screenshot of solution](images/solution-9b.png ':class=image-25-border')
 
-        <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md&sidebar=true&loadSidebar=_sidebar.md" title="Load Docsify-This Advanced Web Page Builder with the Markdown file URL github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md and display a Sidebar that uses a custom Sidebar file" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md&sidebar=true&loadSidebar=_sidebar.md" title="Load Docsify-This Advanced Web Page Builder with the Markdown file URL github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md and display a Sidebar that uses a custom Sidebar file" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
 
     </details>
 
