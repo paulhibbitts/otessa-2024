@@ -39,7 +39,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
       1. Tap on **Show More Page Appearance Options** link  
       ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')
-      
+
       2. Change **Page Font Family** and **Page Link Color** options  
       3. Tap the **Publish as a Standalone Web Page** button  
       ![Screenshot of solution](images/solution-3b.png ':class=image-25-border')
@@ -115,13 +115,13 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
     <details>
       <summary>Show solution</summary>
 
-      1. Copy and then paste the above URL into the **Markdown File URL** field  
-      2. Tap on **Show More Page Appearance Options** link (unless previously chosen)  
+      1. Copy and then paste the above URL into the **Markdown File URL** field
+      2. Tap on **Show More Page Appearance Options** link (unless previously chosen)
       ![Screenshot of solution](images/solution-9a.png ':class=image-25-border')
 
-      3. Tap on **Advanced Web Page Builder Options** checkbox (unless previously chosen)  
-      4. Tap on **Load custom Docsify Sidebar file** checkbox  
-      5. Tap the **Publish as a Standalone Web Page** button  
+      3. Tap on **Advanced Web Page Builder Options** checkbox (unless previously chosen)
+      4. Tap on **Load custom Docsify Sidebar file** checkbox
+      5. Tap the **Publish as a Standalone Web Page** button
       ![Screenshot of solution](images/solution-9b.png ':class=image-25-border')
 
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md&sidebar=true&loadSidebar=_sidebar.md" title="Load Docsify-This Advanced Web Page Builder with the Markdown file URL github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md and display a Sidebar that uses a custom Sidebar file" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
