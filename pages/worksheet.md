@@ -87,10 +87,10 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
     <details>
 
     1. Tap on **Show More Page Appearance Options** link  
-      ![Docsify-This Web Page Builder](images/show-more-page-appearance-options.png ':class=image-25-border')
+      ![Docsify-This Web Page Builder](images/solution-7a.png ':class=image-25-border')
 
     2. Tap on **Advanced Web Page Builder Options** checkbox  
-      ![Docsify-This Web Page Builder](images/advanced-web-page-builder-options.png ':class=image-25-border')
+      ![Docsify-This Web Page Builder](images/solution-7b.png ':class=image-25-border')
 
       <summary>Show solution</summary>
 
