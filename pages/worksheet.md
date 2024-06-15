@@ -74,7 +74,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
     <details>
       <summary>Show solution</summary>
-      
+
       https://docsify-this.net/?basePath=https://raw.codeberg.page/paulhibbitts/codeberg-demo-markdown-file&homepage=README.md&sidebar=true&link-color=0000ff
       
     </details>
