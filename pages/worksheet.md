@@ -38,10 +38,10 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       <summary>Show solution</summary>
 
       1. Tap on **Show More Page Appearance Options** link  
-      ![Docsify-This Web Page Builder](images/solution-3a.png ':class=image-25-border')
+      ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')
 
       2. Change font family and link color options  
-      ![Docsify-This Web Page Builder](images/solution-3b.png ':class=image-25-border')
+      ![Screenshot of solution](images/solution-3b.png ':class=image-25-border')
 
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a> 
 
@@ -81,25 +81,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       
     </details>
 
-7. Access the Docsify-This Advanced Web Page Builder  
-
-    <div>
-    <details>
-
-    1. Tap on **Show More Page Appearance Options** link  
-      ![Docsify-This Web Page Builder](images/solution-7a.png ':class=image-25-border')
-
-    2. Tap on **Advanced Web Page Builder Options** checkbox  
-      ![Docsify-This Web Page Builder](images/solution-7b.png ':class=image-25-border')
-
-      <summary>Show solution</summary>
-
-      <a class="navpill" href="https://docsify-this.net/?advanced=true" title="Load Docsify-This Advanced Web Page Builder" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
-
-    </details>
-    </div>
-
-8. Using Web Page Builder, display a collection of Markdown files as a standalone Website using the following Markdown file  
+7. Using Web Page Builder, display a collection of Markdown files as a standalone Website using the following Markdown file  
    `https://github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md`
 
     <details>
@@ -109,20 +91,39 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       
     </details>
 
+8. Access the Docsify-This Advanced Web Page Builder  
+
+    <div>
+    <details>
+
+    1. Tap on **Show More Page Appearance Options** link  
+      ![Screenshot of solution](images/solution-7a.png ':class=image-25-border')
+
+    2. Tap on **Advanced Web Page Builder Options** checkbox  
+      ![Screenshot of solution](images/solution-7b.png ':class=image-25-border')
+
+      <summary>Show solution</summary>
+
+      <a class="navpill" href="https://docsify-this.net/?advanced=true" title="Load Docsify-This Advanced Web Page Builder" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
+
+    </details>
+    </div>
+
+
 9. Using the Advanced Web Page Builder, display a collection of Markdown files as a standalone Website with a custom Docsify Sidebar using the following Markdown file  
    `https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md`
 
     <details>
       <summary>Show solution</summary>
 
-    1. Tap on **Show More Page Appearance Options** link  
-      ![Docsify-This Web Page Builder](images/show-more-page-appearance-options.png ':class=image-25-border')
+    1. Copy and then paste the above URL into the **Markdown File URL** field  
+    2. Tap on **Show More Page Appearance Options** link  
+      ![Screenshot of solution](images/solution-9a.png ':class=image-25-border')
 
-    2. Tap on **Advanced Web Page Builder Options** checkbox  
-      ![Docsify-This Web Page Builder](images/advanced-web-page-builder-options.png ':class=image-25-border')
-
-    3. Tap on **Load custom Docsify Sidebar file** checkbox  
-      ![Docsify-This Web Page Builder](images/load-docsify-sidebar-custom-file.png ':class=image-25-border')
+    3. Tap on **Advanced Web Page Builder Options** checkbox 
+    4. Tap on **Load custom Docsify Sidebar file** checkbox  
+    5. Tap the **Publish as a Standalone Web Page** button  
+      ![Screenshot of solution](images/solution-9b.png.png ':class=image-25-border')
 
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md&sidebar=true&loadSidebar=_sidebar.md" title="Load Docsify-This Advanced Web Page Builder with the Markdown file URL github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md and display a Sidebar that uses a custom Sidebar file" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
 
