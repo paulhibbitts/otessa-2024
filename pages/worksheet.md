@@ -87,6 +87,10 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
     <details>
       <summary>Show solution</summary>
 
+      1. Copy and then paste the above URL into the **Markdown File URL** field  
+      2. Tap the **Publish as a Standalone Web Page** button  
+      ![Screenshot of solution](images/solution-7.png ':class=image-25-border')
+
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" title="Load Docsify-This with the Markdown file github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
       
     </details>
@@ -97,10 +101,10 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
     <details>
 
     1. Tap on **Show More Page Appearance Options** link  
-      ![Screenshot of solution](images/solution-7a.png ':class=image-25-border')
+      ![Screenshot of solution](images/solution-8a.png ':class=image-25-border')
 
     2. Tap on **Advanced Web Page Builder Options** checkbox  
-      ![Screenshot of solution](images/solution-7b.png ':class=image-25-border')
+      ![Screenshot of solution](images/solution-8b.png ':class=image-25-border')
 
       <summary>Show solution</summary>
 
