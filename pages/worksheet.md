@@ -35,7 +35,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 3. Visually style a displayed Markdown file using the Web Page Builder, for example change the page font family and link color  
 
     <details>
-      <summary>Show solution</summary>
+      <summary>Show solution</summary><br>
 
       1. Tap on **Show More Page Appearance Options** link  
       ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')<br><br>
@@ -84,7 +84,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
    `https://github.com/hibbitts-design/docsify-this-simple-visual-portfolio/blob/main/README.md`
 
     <details>
-      <summary>Show solution</summary>
+      <summary>Show solution</summary><br>
 
       1. Copy and then paste the above URL into the **Markdown File URL** field  
       2. Tap the **Publish as a Standalone Web Page** button  
@@ -97,7 +97,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 8. Access the Docsify-This Advanced Web Page Builder  
 
     <details>
-      <summary>Show solution</summary>
+      <summary>Show solution</summary><br>
 
       1. Tap on **Show More Page Appearance Options** link  
       ![Screenshot of solution](images/solution-8a.png ':class=image-25-border')
@@ -113,7 +113,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
    `https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md`
 
     <details>
-      <summary>Show solution</summary>
+      <summary>Show solution</summary><br>
 
       1. Copy and then paste the above URL into the **Markdown File URL** field  
       2. Tap on **Show More Page Appearance Options** link (unless previously chosen)  
