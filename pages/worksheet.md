@@ -117,7 +117,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
       1. Copy and then paste the above URL into the **Markdown File URL** field  
       2. Tap on **Show More Page Appearance Options** link (unless previously chosen)  
-      ![Screenshot of solution](images/solution-9a.png ':class=image-25-border')
+      ![Screenshot of solution](images/solution-9a.png ':class=image-25-border')<br>
       3. Tap on **Advanced Web Page Builder Options** checkbox (unless previously chosen)  
       4. Tap on **Load custom Docsify Sidebar file** checkbox  
       5. Tap the **Publish as a Standalone Web Page** button  
