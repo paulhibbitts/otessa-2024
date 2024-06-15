@@ -36,7 +36,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
     <details>
       <summary>Show solution</summary>
-
+      
       1. Tap on **Show More Page Appearance Options** link  
       ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')<br><br>
       2. Change the **Page Font Family** option  
