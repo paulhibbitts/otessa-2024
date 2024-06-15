@@ -130,7 +130,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
     </details>
 
-STRETCH GOAL
+STRETCH GOALS
 
 - Create a Markdown file on either [GitHub.com](GitHub.com) or [Codeberg.org](Codeberg.org) and display it with Docsify-This
 
