@@ -8,7 +8,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
    `https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`
 
     <details>
-      <summary>Show solution</summary>
+      <summary>Show solution</summary><br>
 
       1. Copy and then paste the above URL into the **Markdown File URL** field  
       2. Tap the **Publish as a Standalone Web Page** button  
