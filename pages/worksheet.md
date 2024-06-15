@@ -41,6 +41,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')
 
       2. Change **Page Font Family** and **Page Link Color** options  
+      3. Tap the **Publish as a Standalone Web Page** button  
       ![Screenshot of solution](images/solution-3b.png ':class=image-25-border')
 
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a> 
@@ -109,8 +110,6 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       <a class="navpill" href="https://docsify-this.net/?advanced=true" title="Load Docsify-This Advanced Web Page Builder" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
 
     </details>
-    </div>
-
 
 9. Using the Advanced Web Page Builder, display a collection of Markdown files as a standalone Website with a custom Docsify Sidebar using the following Markdown file  
    `https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md`
@@ -128,6 +127,8 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
         ![Screenshot of solution](images/solution-9b.png ':class=image-25-border')
 
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md&sidebar=true&loadSidebar=_sidebar.md" title="Load Docsify-This Advanced Web Page Builder with the Markdown file URL github.com/hibbitts-design/docsify-this-visual-portfolio/blob/main/README.md and display a Sidebar that uses a custom Sidebar file" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
+
+    </details>
 
 STRETCH GOAL
 
