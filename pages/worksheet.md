@@ -6,7 +6,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
 1. Display the following Markdown file URL as a standalone Web page  
    `https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`
-      
+
   <details>
     <summary>Show solution</summary>
 
