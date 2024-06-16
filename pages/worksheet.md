@@ -14,7 +14,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       2. Tap the **Publish as a Standalone Web Page** button  
       ![Screenshot of solution](images/solution-1.png ':class=image-25-border')
 
-      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" target="_blank"><i class="fas fa-external-link-square fa-fw"></i>Open Docsify-This with Solution</a>
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
 
     </details>
 
