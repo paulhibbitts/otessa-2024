@@ -22,11 +22,11 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
    `https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md`
 
     <details>
-    <summary>Show solution</summary><br>
+      <summary>Show solution</summary><br>
 
-    1. Copy the Markdown file URL of your choice, or the above URL, and then paste it into the **Markdown File URL** field  
-    2. Tap the **Publish as a Standalone Web Page** button  
-    ![Screenshot of solution](images/solution-2.png ':class=image-25-border')
+      1. Copy the Markdown file URL of your choice, or the above URL, and then paste it into the **Markdown File URL** field  
+      2. Tap the **Publish as a Standalone Web Page** button  
+      ![Screenshot of solution](images/solution-2.png ':class=image-25-border')
 
       <a class="navpill" href="https://docsify-this.net/?url-field=https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md" title="Load Docsify-This with the Markdown file URL codeberg.org/Codeberg/Documentation/src/branch/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>  
 
