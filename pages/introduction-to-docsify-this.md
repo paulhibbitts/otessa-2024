@@ -72,14 +72,23 @@ The following are example Markdown templates which can be cloned/forked on GitHu
 
 
 ## Additional Resources
-- Open Publishing Ecosystems: Docsify This (courtesy of [Reclaim Hosting](https://www.reclaimhosting.com/))
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/EjeqxOJ2ZxE?si=arAygq5CIMSiHzDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Videos
+
+Open Publishing Ecosystems: Docsify This (courtesy of [Reclaim Hosting](https://www.reclaimhosting.com/))
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EjeqxOJ2ZxE?si=arAygq5CIMSiHzDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Articles and Guides
+
 - Basic Syntax | Markdown Guide
   - https://www.markdownguide.org/basic-syntax
 - Improving The Accessibility Of Your Markdown
   - https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown
 - OER on GitHub What, Why, & How
   - https://evanwill.github.io/make-oer
+
+### Apps
+
 - Markdown Desktop Editors
   - https://code.visualstudio.com/
   - https://typora.io
