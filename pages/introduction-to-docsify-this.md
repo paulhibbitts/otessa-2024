@@ -72,7 +72,7 @@ The following are example Markdown templates which can be cloned/forked on GitHu
 
 ## Additional Resources
 - Open Publishing Ecosystems - Docsify This
-  - https://www.youtube.com/watch?v=EjeqxOJ2ZxE
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EjeqxOJ2ZxE?si=arAygq5CIMSiHzDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - Basic Syntax | Markdown Guide
   - https://www.markdownguide.org/basic-syntax
 - Improving The Accessibility Of Your Markdown
