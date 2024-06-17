@@ -71,6 +71,8 @@ The following are example Markdown templates which can be cloned/forked on GitHu
   - https://github.com/hibbitts-design/docsify-this-lms-content-pages
 
 ## Additional Resources
+- Open Publishing Ecosystems - Docsify This
+  - https://www.youtube.com/watch?v=EjeqxOJ2ZxE
 - Basic Syntax | Markdown Guide
   - https://www.markdownguide.org/basic-syntax
 - Improving The Accessibility Of Your Markdown
