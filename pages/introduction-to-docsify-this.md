@@ -88,7 +88,7 @@ The following are example Markdown templates which can be cloned/forked on GitHu
 - OER on GitHub What, Why, & How
   - https://evanwill.github.io/make-oer
 
-### Apps
+### Desktop Apps
 
 - Markdown Desktop Editors
   - https://code.visualstudio.com/
