@@ -2,7 +2,7 @@
 
 #  Introduction to Docsify&#8288;&#8211;&#8288;This
 
-> An overview of Markdown publishing using the open source project Docsify&#8288;&#8211;&#8288;This.
+> An introduction of Markdown publishing using the open source project Docsify&#8288;&#8211;&#8288;This.
 
 Created by [Paul Hibbitts](https://hibbittsdesign.org) for [OTESSA 2024](https://otessa.org/2024/).
 
