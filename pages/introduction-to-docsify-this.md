@@ -54,7 +54,7 @@ Docsify- This uses URL parameters to specify what content is displayed and how. 
 You can further modify the appearance of web pages by using the provided CSS classes or even your own custom CSS classes directly in a Markdown file, increasing flexibility and control of pages.
 
 ## Hosting Markdown Files
-To host Markdown files for Docsify-This, you can use platforms like GitHub, Codeberg or your own Webserver. You only need the URL of a Markdown file to start publishing with Docsify-This.
+To host Markdown files for Docsify-This, you can use platforms like [GitHub.com](https://github.com/)(recommended), [Codeberg.org](https://codeberg.org/), a static file hosting service, or your own Webserver. You only need the URL of a Markdown file to start publishing with Docsify-This.
 
 ## Leveraging Git and GitHub/Codeberg
 Using Git and platforms like GitHub or Codeberg enhances collaboration and version control
