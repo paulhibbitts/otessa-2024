@@ -1,3 +1,5 @@
+`bit.ly/otessa-2024-docsify-this`
+
 <h1><b>Breaking Down Barriers:</b><br>Using Docsify-This As an Entry Point to Markdown Open Publishing</h1> 
 
 Materials for Paul Hibbitts’ [OTESSA 2024 Conference](https://otessa.org/2024/) online workshop about the open source project [Docsify&#8288;&#8211;&#8288;This](https://Docsify-This.net).
