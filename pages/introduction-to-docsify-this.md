@@ -70,7 +70,6 @@ The following are example Markdown templates which can be cloned/forked on GitHu
 - Docsify-This LMS Content Pages Template
   - https://github.com/hibbitts-design/docsify-this-lms-content-pages
 
-
 ## Additional Resources
 
 ### Videos
